@@ -1,0 +1,27 @@
+{
+  "name": "burger-queen-api",
+  "version": "1.0.0",
+  "description": "- [1. Preâmbulo](#1-preâmbulo)\r - [2. Resumo do projeto](#2-resumo-do-projeto)\r - [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)\r - [4. Critérios de aceitação mínimos do projeto](#5-critérios-de-aceitação-mínimos-do-projeto)\r - [5. Dicas e leituras complementares](#6-dicas-e-leituras-complementares)\r - [6. HTTP API Checklist](#7-http-api-checklist)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessikalayne/burger-queen-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessikalayne/burger-queen-api/issues"
+  },
+  "homepage": "https://github.com/jessikalayne/burger-queen-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "sequelize": "^5.8.12",
+    "sequelize-cli": "^5.5.0",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {}
+}
